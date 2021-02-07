@@ -1,0 +1,8 @@
+# Project Model First Edition
+# VRPTW with Stages
+# Commands
+
+solve;
+display x;
+display u;
+display r;
